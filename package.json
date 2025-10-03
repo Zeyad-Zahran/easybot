@@ -1,0 +1,29 @@
+{
+  "name": "easybot",
+  "version": "1.0.2",
+  "description": "Lightweight and easy-to-use wrapper for Google Gemini models",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "gemini",
+    "ai",
+    "bot",
+    "google",
+    "chatbot",
+    "wrapper",
+    "easy"
+  ],
+  "author": "Zeyad Zahran <zeyadzahran.dev>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/easybot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/your-username/easybot/issues"
+  },
+  "homepage": "https://github.com/your-username/easybot#readme"
+}
